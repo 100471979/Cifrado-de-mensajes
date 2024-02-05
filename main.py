@@ -15,7 +15,7 @@ from cryptography.x509.oid import NameOID
 import pandas as pd
 import PySimpleGUI as sg
 import datetime
-##
+
 #color de la ventana
 sg.theme('DarkRed')
 
